@@ -28,18 +28,18 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 <a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
 <a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="30" width="30" /></a>
 <a href="https://whttps://www.facebook.com/ArHsOb/">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="ArHsOb" width="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 <a href="https://www.instagram.com/arikaafrinboshra/">
 <img alt="arikaafrinboshra" width="35px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
-  <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <a href="https://discord.gg/ARIKA#0025">
+  <img align="left" alt="Arika's Discord" width="22px" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" />
 </a>
 </p>
 
 <a href="https://github.com/arikaafrinboshra/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=onedark&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 󠀠󠀠 How to reach me **arika.boshra@outlook.com**
 
