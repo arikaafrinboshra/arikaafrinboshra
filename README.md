@@ -16,20 +16,18 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
 
-
-
 <p align="center">
-<a href="https://www.linkedin.com/in/arikaafrinboshra/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="arikaafrinboshra" height="30" width="30" /></a>
-<a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
-<a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="30" width="30" /></a>
-<a href="https://whttps://www.facebook.com/ArHsOb/">
-  <img alt="ArHsOb" width="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
-</a>
-<a href="https://www.instagram.com/arikaafrinboshra/">
-<img alt="arikaafrinboshra" width="35px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
-</a>
-  <a href="https://discord.gg/ARIKA#0025">
-  <img align="left" alt="Arika's Discord" width="22px" src="https://img.icons8.com/color/96/000000/discord-logo.png" />
+  <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="arikaafrinboshra" height="40" width="40" /></a>
+  
+  <a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
+
+  <a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="30" width="30" /></a>
+  
+  <a href="https://whttps://www.facebook.com/ArHsOb/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="ArHsOb" height="30" width="30" /></a>
+  
+  <a href="https://www.instagram.com/arikaafrinboshra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="arikaafrinboshra" height="30" width="30" /></a>
+  
+  <a href="https://discord.gg/ARIKA#0025" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Arika's Discord" height="30" width="30"/>
 </a>
 </p>
 
