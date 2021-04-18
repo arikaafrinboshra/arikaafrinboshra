@@ -17,8 +17,8 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikaafrinboshra" alt="arikaafrinboshra" /> </p>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arikaafrinboshra&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arikaafrinboshra&count_private=true&include_all_commits=true&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact&theme=highcontrast" />
 </div>
 
 
@@ -32,6 +32,9 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 </a>
 <a href="https://www.instagram.com/arikaafrinboshra/">
 <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+  <a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 </p>
 
