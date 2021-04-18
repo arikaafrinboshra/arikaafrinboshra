@@ -16,7 +16,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact" />
 </div>
 
-- 📫 󠀠󠀠 How to reach me **arika.boshra@outlook.com**
+  <br>
+  <br>
+
+
 
 
 <p align="center">
@@ -28,3 +31,4 @@
 <a href="https://github.com/arikaafrinboshra/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=onedark&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 📫 󠀠󠀠 How to reach me **arika.boshra@outlook.com**
