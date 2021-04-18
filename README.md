@@ -24,4 +24,5 @@
 <a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="30" width="30" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=onedark&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
