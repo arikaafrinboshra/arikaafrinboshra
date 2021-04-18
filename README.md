@@ -15,7 +15,8 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arikaafrinboshra&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
-
+<br>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="arikaafrinboshra" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
@@ -32,6 +33,12 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
 - 📫 󠀠󠀠 How to reach me **arika.boshra@outlook.com**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I am cyclist, runner, leader and mentor.
+
+- General Member of JCI Dhaka West.
+- Women Community Leader of BDApps.
+- Student Volunteer of Microsoft Technical Community Bangladesh.
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
