@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="_blank">ARIKA</a> <img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
-<h4>I'm a Software Engineer and a Researcher<br>
+<h4>I'm a Software Engineer and a Researcher.<br>
   
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
-Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working on my research papers alongside my professional life.
+Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working on my research papers alongside my professional life. My first research paper is **A Hyper-ledger Fabric Framework as a Service for Improved Quality E-voting System**, published in IEEE Tensymp 2020. Currently I’m working on more researches on Blockchain Technology which are close to be complete. 
 <br>
 <br>
 
