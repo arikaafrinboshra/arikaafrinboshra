@@ -17,8 +17,8 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikaafrinboshra" alt="arikaafrinboshra" /> </p>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arikaafrinboshra&count_private=true&include_all_commits=true&theme=highcontrast" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact&theme=highcontrast" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arikaafrinboshra&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact&theme=highcontrast&bg_color=0,000000,130F40" />
 </div>
 
 
@@ -34,7 +34,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 <img alt="arikaafrinboshra" width="35px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
   <a href="https://discord.gg/ARIKA#0025">
-  <img align="left" alt="Arika's Discord" width="22px" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" />
+  <img align="left" alt="Arika's Discord" width="22px" src="https://img.icons8.com/color/96/000000/discord-logo.png" />
 </a>
 </p>
 
