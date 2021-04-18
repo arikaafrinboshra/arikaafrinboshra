@@ -23,4 +23,4 @@
 <a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
 <a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="30" width="30" /></a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhfEmu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra)](https://github.com/ryo-ma/github-profile-trophy)
