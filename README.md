@@ -16,11 +16,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikaafrinboshra&layout=compact" />
 </div>
 
-  <br>
-  <br>
-
-
-
+<!--
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="arikaafrinboshra" height="30" width="30" /></a>
@@ -32,3 +28,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=onedark&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 󠀠󠀠 How to reach me **arika.boshra@outlook.com**
+-->
