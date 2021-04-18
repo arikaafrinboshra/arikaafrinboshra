@@ -18,16 +18,11 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="arikaafrinboshra" height="40" width="40" /></a>
-  
-  <a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
-
-  <a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="30" width="30" /></a>
-  
-  <a href="https://whttps://www.facebook.com/ArHsOb/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="ArHsOb" height="30" width="30" /></a>
-  
-  <a href="https://www.instagram.com/arikaafrinboshra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="arikaafrinboshra" height="30" width="30" /></a>
-  
-  <a href="https://discord.gg/ARIKA#0025" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Arika's Discord" height="30" width="30"/>
+<a href="https://www.researchgate.net/profile/Arika-Boshra" target="blank"><img align="center" src="https://www.researchgate.net/apple-touch-icon-180x180.png" alt="Arika-Boshra" height="30" width="30" /></a>
+<a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="40" width="40" /></a>
+<a href="https://whttps://www.facebook.com/ArHsOb/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="ArHsOb" height="40" width="40" /></a>
+<a href="https://www.instagram.com/arikaafrinboshra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="arikaafrinboshra" height="30" width="30" /></a>
+<a href="https://discord.gg/ARIKA#0025" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Arika's Discord" height="40" width="40"/>
 </a>
 </p>
 
