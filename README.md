@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="_blank">ARIKA</a> <img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
-<h3 align="center">I'm a passionate iOS Engineer󠀠<br>
+<h3 align="center">I'm a Software Engineer and a Researcher<br>
   
-  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
-󠀠󠀠👨🏽‍💻 󠀠󠀠  1+ years of professional experience in iOS platform, well-versed in Clean-Modular architecture, UI/UX, algorithm and data-structure. 
+Working on iOS my favourite one. Focusing Swift and SwiftUI. I’m working my research papers alongside my professional life.
   <br>
   <br>
   I built high performant apps, used by millions, and codebase that scales to big engineering team, drove the product vision for my company
