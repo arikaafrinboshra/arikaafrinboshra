@@ -23,8 +23,9 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
 <a href="https://twitter.com/ArikaAfrin" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ArikaAfrin" height="40" width="40" /></a>
 <a href="https://www.facebook.com/ArHsOb/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="ArHsOb" height="40" width="40" /></a>
 <a href="https://www.instagram.com/arikaafrinboshra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="arikaafrinboshra" height="30" width="30" /></a>
-<a href="https://discord.gg/ARIKA#0025" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Arika's Discord" height="40" width="40"/>
-</a>
+<a href="https://discord.gg/ARIKA#0025" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Arika's Discord" height="40" width="40"/></a>
+<a href="https://www.hackerrank.com/arikaafrinboshra" target="blank"><img align="center" src="https://github.com/arikaafrinboshra/arikaafrinboshra/blob/master/images/HackerRank_logo.png" alt="arikaafrinboshra" height="40" width="40"/></a>
+ 
 </p>
 
 <a href="https://github.com/arikaafrinboshra/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
