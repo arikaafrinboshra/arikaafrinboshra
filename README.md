@@ -1,18 +1,15 @@
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="_blank">ARIKA</a> <img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
-<h3 align="center">I'm a Software Engineer and a Researcher<br>
+<h4>I'm a Software Engineer and a Researcher<br>
   
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
-Working on iOS my favourite one. Focusing Swift and SwiftUI. I’m working my research papers alongside my professional life.
-  <br>
-  <br>
-  I built high performant apps, used by millions, and codebase that scales to big engineering team, drove the product vision for my company
-  <br>
-  <br>
-<!--   Open for new opportunities -->
-</h3>
+Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working on my research papers alongside my professional life.
+<br>
+<br>
+
+</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikaafrinboshra" alt="arikaafrinboshra" /> </p>
 
