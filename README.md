@@ -9,6 +9,12 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
 <br>
 </h4>
 
+Professionally working on: **Swift**.
+
+
+Research Field: **Blockchain, Micro-services, FinTech**.
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikaafrinboshra" alt="arikaafrinboshra" /> </p>
 
 <div>
