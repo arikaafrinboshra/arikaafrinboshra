@@ -11,7 +11,6 @@ Working on iOS, my favourite one. Focusing on Swift and SwiftUI. I’m working o
 
 Professionally working on: **Swift**.
 
-
 Research Field: **Blockchain, Micro-services, FinTech**.
 
 
