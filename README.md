@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/arikaafrinboshra/" target="_blank">ARIKA</a> <img
-src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" height="32" /></h1>
+src="https://media.giphy.com/media/QZGbaNZq38Nd5qpRhD/giphy.gif" height="32" /></h1>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="150">
 <h3>I'm a Software Engineer and a Researcher.<br></h3>
