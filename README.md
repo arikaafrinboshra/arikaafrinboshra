@@ -34,7 +34,7 @@ Research Field: **Blockchain, Micro-services, FinTech**.
 </p>
 
 <a href="https://github.com/arikaafrinboshra/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=juicyfresh&no-frame=true&&row=1&no-bg=true&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arikaafrinboshra&theme=juicyfresh&no-frame=true&row=1&column=7&no-bg=true&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 󠀠󠀠 How to reach me **arika.boshra@outlook.com**
 
